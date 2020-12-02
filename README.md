@@ -1,4 +1,4 @@
-# dacon-writer-classification
+# Dacon-Writer-Classification
 
 ### Contest Information 
 Similar to Kaggle's Spooky Author Classification Contest. We are given pieces from the text and we need to classify who wrote it. 
